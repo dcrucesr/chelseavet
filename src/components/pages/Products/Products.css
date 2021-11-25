@@ -1,0 +1,46 @@
+.main-vendidos{
+    display: flex;
+    flex-direction: row ;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px 130px;
+}
+.producto{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.producto-item{
+    width: 300px;
+    padding: 10px 20px 20px;
+}
+.producto-item-imagen img{
+    max-width: 300px;
+}
+.producto-item-boton button{
+    background-color: red;
+    text-align: center;
+    font-weight: 600;
+    position: relative;
+    cursor: pointer;
+    font-size: 13px;
+    color: white;
+    display: block;
+    height: 40px;
+    width: 100%;
+}
+.producto-item-texto{
+    padding: 10px 10px 10px;
+}
+.producto-item-texto-nombre{
+    text-align: center;
+    font-size: 15px;
+}
+.producto-item-texto-precio{
+    text-align: center;
+    font-size: 14px;
+
+}

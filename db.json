@@ -1,0 +1,45 @@
+{
+  "productos": [{
+      "id": 1,
+      "imagen": "https://cdn.shopify.com/s/files/1/0044/2289/3697/products/SOSWEB0000411_300x300.png?v=1615227363",
+      "nombre": "Hill's SD Adult Small Paws Lamb & Rice",
+      "precio": "S/. 80.00 – S/. 208.00",
+      "descripcion": "El alimento seco para perros Hill's Science Diet Large Breed Adult 6+ está formulado para las necesidades específicas del envejecimiento para perros de razas grandes. Proporciona nutrición fácil de digerir con una mezcla..."
+    },
+    {
+      "id": 2,
+      "imagen": "https://cdn.shopify.com/s/files/1/0044/2289/3697/products/SOSWEB0000411_300x300.png?v=1615227363",
+      "nombre": "Hill's SD Adult 7+ Small Paws 2 Kg",
+      "precio": "S/. 80.00",
+      "descripcion": "El alimento seco para perros Hill's Science Diet Large Breed Adult 6+ está formulado para las necesidades específicas del envejecimiento para perros de razas grandes. Proporciona nutrición fácil de digerir con una mezcla..."
+    },
+    {
+      "id": 3,
+      "imagen": "https://cdn.shopify.com/s/files/1/0044/2289/3697/products/SOSWEB0000426_540x.png?v=1615227386",
+      "nombre": "Nutram T26 Total Grain Free Allergy",
+      "precio": "S/. 103.00 – S/. 350.00",
+      "descripcion": "El alimento seco para perros Hill's Science Diet Large Breed Adult 6+ está formulado para las necesidades específicas del envejecimiento para perros de razas grandes. Proporciona nutrición fácil de digerir con una mezcla..."
+    },
+    {
+      "id": 4,
+      "imagen": "https://cdn.shopify.com/s/files/1/0044/2289/3697/products/SOSWEB0000426_540x.png?v=1615227386",
+      "nombre": "Nutram T26 Total Grain Free Allergy",
+      "precio": "S/. 103.00 – S/. 350.00",
+      "descripcion": "El alimento seco para perros Hill's Science Diet Large Breed Adult 6+ está formulado para las necesidades específicas del envejecimiento para perros de razas grandes. Proporciona nutrición fácil de digerir con una mezcla..."
+    },
+    {
+      "id": 5,
+      "imagen": "https://cdn.shopify.com/s/files/1/0044/2289/3697/products/SOSWEB0000426_540x.png?v=1615227386",
+      "nombre": "Nutram T26 Total Grain Free Allergy",
+      "precio": "S/. 103.00 – S/. 350.00",
+      "descripcion": "El alimento seco para perros Hill's Science Diet Large Breed Adult 6+ está formulado para las necesidades específicas del envejecimiento para perros de razas grandes. Proporciona nutrición fácil de digerir con una mezcla..."
+    },
+    {
+      "id": 6,
+      "imagen": "https://cdn.shopify.com/s/files/1/0044/2289/3697/products/SOSWEB0000426_540x.png?v=1615227386",
+      "nombre": "Nutram T26 Total Grain Free Allergy",
+      "precio": "S/. 103.00 – S/. 350.00",
+      "descripcion": "El alimento seco para perros Hill's Science Diet Large Breed Adult 6+ está formulado para las necesidades específicas del envejecimiento para perros de razas grandes. Proporciona nutrición fácil de digerir con una mezcla..."
+    }
+  ]
+}

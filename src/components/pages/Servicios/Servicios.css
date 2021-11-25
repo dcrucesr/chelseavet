@@ -1,0 +1,26 @@
+.servicios{
+    padding: 20px 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.servicios-tipos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.servicios-texto{
+    padding: 20px 0px;
+}
+.servicios-texto-cita{
+    padding: 10px 0px;
+}
+.servicios-tipos-item{
+    flex-direction: column;
+    text-align: center;
+}
+.servicios-tipos-item-texto{
+    text-align: left;
+}
+.servicios-tipos-item-imagen img{
+    width: 500px;
+    height: 250px;
+}
