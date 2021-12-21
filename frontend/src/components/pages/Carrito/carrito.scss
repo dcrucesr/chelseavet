@@ -1,0 +1,206 @@
+.containter-main {
+
+    margin: 40px 100px 25px;
+    background: rgb(228, 255, 175);
+    padding: 20px 25px 20px;
+}
+
+
+.Item {
+    display: flex;
+    flex-direction: row;
+    margin: 40px 100px 25px;
+    flex-direction: column;
+    flex-grow: 5;
+    // flex-wrap: wrap;
+    background: rgb(255, 240, 240);
+
+    // background: yellowgreen;
+    &-Cabecera {
+        display: flex;
+        flex-direction: row;
+        background: rgb(228, 255, 175);
+        padding: 20px 25px 10px;
+        justify-content: space-between;
+    }
+
+    &-informacion {
+        display: flex;
+        flex-direction: row;
+        padding: 20px 25px 10px;
+        align-items: center;
+        justify-content: space-between;
+        text-align: center;
+
+        &-Imagen {
+            padding: 0 20px;
+
+            img {
+                width: 100px;
+                height: 100px;
+            }
+        }
+
+        &-Nombre {
+            flex-grow: 0;
+            padding: 0 20px;
+        }
+    }
+
+    &-opciones {
+        display: flex;
+        justify-content: flex-end;
+        padding: 0 20px 0;
+    }
+}
+
+.btn-eliminar {
+    line-height: 1.42857143;
+    border-radius: 50px;
+    padding: 8px 24px 7px;
+    font-size: 15px;
+    cursor: pointer;
+    margin: 15px 0px 5px;
+    color: white;
+    width: 100px;
+    border: 0;
+    background-color: red;
+}
+
+.total {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-around;
+    margin: 0px 100px 0px;
+    background: antiquewhite;
+    &-comprar{
+        
+        line-height: 1.42857143;
+        border-radius: 50px;
+        padding: 8px 24px 7px;
+        font-size: 15px;
+        cursor: pointer;
+        margin: 15px 0px 5px;
+        color: white;
+        width: 100px;
+        border: 0;
+        background-color: blue;
+
+    }
+}
+
+.containter-main {
+
+    margin: 40px 100px 25px;
+    background: rgb(228, 255, 175);
+    padding: 20px 25px 20px;
+}
+
+
+.pedido {
+    display: flex;
+    flex-direction: row;
+    margin: 40px 100px 25px;
+    flex-direction: column;
+    flex-grow: 7;
+    // flex-wrap: wrap;
+    background: rgb(255, 240, 240);
+
+    // background: yellowgreen;
+    &-Cabecera {
+        display: flex;
+        flex-direction: row;
+        background: rgb(228, 255, 175);
+        padding: 20px 25px 10px;
+        justify-content: space-between;
+    }
+
+    &-informacion {
+        display: flex;
+        flex-direction: row;
+        padding: 20px 25px 10px;
+        align-items: center;
+        justify-content: space-between;
+        text-align: center;
+
+        &-Imagen {
+            padding: 0 20px;
+
+            img {
+                width: 100px;
+                height: 100px;
+            }
+        }
+
+        &-Nombre {
+            flex-grow: 0;
+            padding: 0 20px;
+        }
+    }
+
+    &-acciones {
+        display: flex;
+        justify-content: flex-end;
+        padding: 0 20px 0;
+    }
+}
+.pedido-3{
+    background: rgb(228, 255, 175);
+}
+.pedido-2{
+    // background-color: yellow;
+    display: flex;
+    flex-direction: column;
+
+    &-item{
+        // background: blue;
+        text-align: center;
+    }
+}
+.pElim, .cEstado, .vMas{
+    padding: 5px;
+    margin: 5px;
+    background: blueviolet;
+    color: white;
+    border:0;
+    cursor: pointer;
+}
+.btn-eliminar {
+    line-height: 1.42857143;
+    border-radius: 50px;
+    padding: 8px 24px 7px;
+    font-size: 15px;
+    cursor: pointer;
+    margin: 15px 0px 5px;
+    color: white;
+    width: 100px;
+    border: 0;
+    background-color: red;
+}
+
+.total {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-around;
+    margin: 0px 100px 0px;
+    background: antiquewhite;
+
+    &-comprar {
+
+        line-height: 1.42857143;
+        border-radius: 50px;
+        padding: 8px 24px 7px;
+        font-size: 15px;
+        cursor: pointer;
+        margin: 15px 0px 5px;
+        color: white;
+        width: 100px;
+        border: 0;
+        background-color: blue;
+
+    }
+}

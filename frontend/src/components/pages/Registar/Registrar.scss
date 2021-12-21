@@ -1,0 +1,25 @@
+.container-register {
+    padding: 7% 10%;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    margin: 0 25%;
+    border: 0px;
+    flex-wrap: wrap;
+    .refInciar{
+        padding-top: 4px;
+        text-decoration: none;
+    }
+    .register {
+        display: flex;
+        flex-direction: column;
+        .bRegister{
+            width: 50%;
+            margin: 15px 0px;
+        }
+    }
+}
+.containter-register-main {
+    background: #e6edfaa4;
+    padding: 4% 0px;
+}
